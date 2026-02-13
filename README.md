@@ -2,7 +2,7 @@
     Valentine's Wish
 </h1>
 
-[![Author]https://img.shields.io/badge/author-SHADMAN-green](https://github.com/Shadman-Samin)
+[![Author][https://img.shields.io/badge/author-SHADMAN-green](https://github.com/Shadman-Samin)
 
 
 #### [See it Live](https://govindcodes.github.io/ValentineWish/)
